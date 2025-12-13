@@ -22,6 +22,8 @@
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%A0-blueviolet?style=for-the-badge)
 ![Creative Technologist](https://img.shields.io/badge/Creative%20Technologist-%F0%9F%8E%A8-orange?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
+ ### 🏅 Animation 
+![snake gif](https://github.com/JaadooCoder/JaadooCoder/blob/output/github-snake-dark.svg)
 
 
 
