@@ -19,7 +19,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=JaadooCoder&theme=react-dark)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JaadooCoder&theme=darkhub)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JaadooCoder&theme=onedark&row=1&column=6&no-frame=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
