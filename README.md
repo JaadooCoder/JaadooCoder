@@ -18,8 +18,9 @@
 ### 🔝 Contribution Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=JaadooCoder&theme=react-dark)
 
-### 📈 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/JaadooCoder?template=classic&isocalendar=1&languages=1&achievements=1&base.indepth=true&base.hireable=true&config.timezone=Asia/Kolkata)
-)
+### ⚡ GitHub Activity
+![](https://nirzak-streak-stats.vercel.app/?user=JaadooCoder&theme=dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=JaadooCoder&theme=react-dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
