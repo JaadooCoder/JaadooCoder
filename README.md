@@ -15,11 +15,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JaadooCoder&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+### 🔝 Contribution Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=JaadooCoder&theme=react-dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=JaadooCoder&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JaadooCoder&theme=darkhub)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
