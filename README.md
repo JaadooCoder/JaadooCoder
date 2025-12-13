@@ -18,9 +18,11 @@
 ### 🔝 Contribution Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=JaadooCoder&theme=react-dark)
 
-### ⚡ GitHub Activity
-![](https://nirzak-streak-stats.vercel.app/?user=JaadooCoder&theme=dark)
-![](https://github-readme-activity-graph.vercel.app/graph?username=JaadooCoder&theme=react-dark)
+### 🏅 Achievements
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%A0-blueviolet?style=for-the-badge)
+![Creative Technologist](https://img.shields.io/badge/Creative%20Technologist-%F0%9F%8E%A8-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
